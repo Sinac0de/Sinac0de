@@ -2,10 +2,10 @@
 
 ## 🚀 About Me
 
-🎓 I am Sina Moradian , a **Junior Front End Web Developer**. I'm currently learning ReactJs.
+🎓 I am Sina Moradian , a **Junior Front End Web Developer**.
  <br> I am also Pursuing my Bachelor in **Computer Software Engineering** and will graduate in mid-2025.
 
-👨‍💻 I enjoy programming and creating complicated and eye-catching things. I love teamwork and enjoy solving problems and challenging myself.
+👨‍💻 I enjoy programming and creating complicated and eye-catching things. I love teamwork and enjoy solving problems and challenging myself. I also currently started learing React.
 
 📚 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are **playing video games**, **reading books**, **sketching**, and **touch typing**.
 
