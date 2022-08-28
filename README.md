@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Sina Moradian , a **Junior Front End Web Developer**.
+🎓 I am Sina Moradian , a **Junior Front End Web Developer** from Kermanshah, Iran.
  <br> I am also Pursuing my Bachelor in **Computer Software Engineering** and will graduate in mid-2025.
 
 👨‍💻 I enjoy programming and creating complicated and eye-catching things. I love teamwork and enjoy solving problems and challenging myself. I also currently started learing React.
