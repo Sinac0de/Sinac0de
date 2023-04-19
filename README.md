@@ -16,8 +16,6 @@
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![c++](https://img.shields.io/badge/Cpp-3776AB?style=for-the-badge&logo=Cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-fff?style=for-the-badge&logo=Java&logoColor=white)
-![c#](https://img.shields.io/badge/CSharp-000?style=for-the-badge&logo=Java&logoColor=white)
 
 ### Front-End Development
 
