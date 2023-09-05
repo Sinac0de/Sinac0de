@@ -1,15 +1,16 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀 About Me
+## About Me
 
-🎓 I am Sina Moradian , a **Junior Front End Web Developer** from Kermanshah, Iran.
- <br> I am also pursuing my Bachelor's in **Computer Software Engineering** and will graduate in mid-2025.
+👋 Hey there, I'm Sina Moradian, a passionate **Front End Developer** hailing from the beautiful city of Kermanshah, Iran. 🌆
 
-👨‍💻 I enjoy programming and creating complex and eye-catching stuff! I love teamwork, solving problems, and challenging myself.
-<br>I also currently learning ReactJs.
+🎓 Currently, I'm on an exciting journey towards my Bachelor's degree in **Computer Software Engineering**, set to graduate in mid-2025. 🎓
 
-📚 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies are **playing video games**, **reading books**, **sketching**, and **touch typing**.
+👨‍💻 My world revolves around programming and crafting captivating web experiences. I thrive in collaborative environments, relish problem-solving, and constantly seek new challenges. Currently, I'm diving deep into the world of **ReactJs** to elevate my skills even further. 💡
 
+📚 Beyond the realm of tech, I'm a well-rounded individual with a thirst for knowledge. When I'm not coding, you'll find me immersed in various activities such as conquering virtual realms through video games, delving into intriguing books, expressing my creativity through sketching, and mastering the art of touch typing. 🎮📖🎨⌨️
+
+Let's connect and create something amazing together! 🚀🤝
 ## 🛠️ Skills
 
 ### Languages
