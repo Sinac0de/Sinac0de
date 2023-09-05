@@ -37,7 +37,7 @@ Let's connect and create something amazing together! 🚀🤝
 ## My Stats 🔥
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sinac0de&theme=transparent)](https://git.io/streak-stats)
-[![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinac0de&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Sina's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinac0de&show_icons=true&theme=tokyonight&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🖥️ Workspace Setup
 
