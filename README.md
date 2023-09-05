@@ -4,7 +4,7 @@
 
 👋 Hey there, I'm Sina Moradian, a passionate **Front End Developer** hailing from the beautiful city of Kermanshah, Iran. 🌆
 
-🎓 Currently, I'm on an exciting journey towards my Bachelor's degree in **Computer Software Engineering**, set to graduate in mid-2025. 🎓
+🎓 Currently, I'm on an exciting journey towards my Bachelor's degree in **Computer Software Engineering**, set to graduate in mid-2025.
 
 👨‍💻 My world revolves around programming and crafting captivating web experiences. I thrive in collaborative environments, relish problem-solving, and constantly seek new challenges. Currently, I'm diving deep into the world of **ReactJs** to elevate my skills even further. 💡
 
