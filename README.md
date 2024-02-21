@@ -6,7 +6,7 @@
 
 🎓 Currently, I'm on an exciting journey towards my Bachelor's degree in **Computer Software Engineering**, set to graduate in mid-2025.
 
-👨‍💻 My world revolves around programming and crafting captivating web experiences. I thrive in collaborative environments, relish problem-solving, and constantly seek new challenges. Currently, I'm diving deep into the world of **ReactJs** to elevate my skills even further. 💡
+👨‍💻 My world revolves around programming and crafting captivating web experiences. I thrive in collaborative environments, relish problem-solving, and constantly seek new challenges. Currently, I'm diving deep into the world of **React and Next.js** to elevate my skills even further. 💡
 
 📚 Beyond the realm of tech, I'm a well-rounded individual with a thirst for knowledge. When I'm not coding, you'll find me immersed in various activities such as conquering virtual realms through video games, delving into intriguing books, expressing my creativity through sketching, and mastering the art of touch typing. 🎮📖🎨⌨️
 
